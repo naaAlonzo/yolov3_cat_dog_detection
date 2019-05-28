@@ -1,2 +1,2 @@
-# yolov3_cat_dog_detection
+# yolo
 Cat-Dog detection using Yolo V3 and Darknet
